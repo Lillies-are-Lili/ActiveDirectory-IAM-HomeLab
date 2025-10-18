@@ -10,6 +10,9 @@ kindsonthegenius: https://www.kindsonthegenius.com/how-to-setup-active-directory
 
 Abdullahi Ali: https://medium.com/@aali23/how-to-build-an-active-directory-iam-home-lab-using-virtualbox-60b79b94b300
 
+## Purpose of Lab
+Active Directory is very important for those in IT or Cybersecurity. It provides centralized authentication and authorization for managing users, computers, groups, and other network resources. It's fundamental in understanding user and group management, and a vital skill to have. I wanted to learn more about Active Directory, in order to be a more skilled IT professional. 
+
 ## Creating the Virtual Machine
 This is my settings I configured on the VM. 
 
@@ -77,8 +80,7 @@ I went back into the Active Directory Users and Computers and all users were aut
 <!-- https://medium.com/@mando_elnino/setting-up-active-directory-in-virtualbox-part-2-windows-virtual-machine-9faf590f51b1
 
 go back to article nad try and finish lab? -->
-## Purpose of Lab
-Active Directory is very important for those in IT or Cybersecurity. It provides centralized authentication and authorization for managing users, computers, groups, and other network resources. It's fundamental in understanding user and group management, and a vital skill to have. I wanted to learn more about Active Directory, in order to be a more skilled IT professional. 
+
 
 ## Lessons Learned
 When first starting this lab, I used mulitple resources to figure out what is the best way to do this smoothly and efficiently. Because of that, since the resources did each of the labs differently, I ended up having to delete my VM and configure a new one 3 separate times. This slowed me down significantly, but after the second time I was able to configure the VM very fast and without instruction. While it was somewhat a bother to have to redo large chunks of the lab, I believe it reinforced important concepts for me, and I learned a lot each time I redid it.
