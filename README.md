@@ -46,7 +46,10 @@ I went into the Active Directory Users and Computers and created an _ADMIN Organ
 
 And then to give myself admin privileges, I added myself to be a member of domain admins.
 
+
 <img width="517" height="443" alt="Screenshot 2025-10-18 at 2 31 04 PM" src="https://github.com/user-attachments/assets/fd11aae7-4853-4a8a-8d5b-66c0429bbcb0" />
+
+
 I've now officially created my first admin account. Just to test it worked, I logged out and logged back int with my new credentials.
 
 <img width="530" height="415" alt="Screenshot 2025-10-18 at 2 33 17 PM" src="https://github.com/user-attachments/assets/288ff419-d323-4955-9f83-400af9063027" />
