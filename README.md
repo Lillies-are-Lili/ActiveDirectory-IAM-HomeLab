@@ -85,4 +85,4 @@ When first starting this lab, I used mulitple resources to figure out what is th
 
 I also learned the importance in documentation. When I messed up a few times prior, instead of really looking at the guides, I looked at my own notes to see what I was doing. Documentation is vital everywhere, especially in service desk. Whether training someone new, or re-learning yourself, documenting the steps to complete a task can save many hours of stress and avoid wasting time. 
 
-Overall, I really enjoyed this lab and feel like I learned a lot. There's much more to Active Directory than I thought, and I feel like a stronger IT individual because of it. 
+Overall, I really enjoyed this lab and feel like I learned a lot. There's much more to Active Directory than I thought, and I feel like a stronger IT professional because of it. 
